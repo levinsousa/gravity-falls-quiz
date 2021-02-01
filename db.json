@@ -1,36 +1,55 @@
 {
-  "bg": "https://images7.alphacoders.com/737/thumb-1920-737400.jpg",
+  "bg": "https://imgur.com/YIRMClJ.jpg",
   "title": "Quiz Gravity Falls",
   "description": "",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://i.imgur.com/aEqG10b.gif",
+      "title": "Quais são os personagens principais?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 3,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Stan e Wendy",
+        "Soos e Jack",
+        "Mabelle e Dopper",
+        "Mabel e Dipper"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://i.imgur.com/QpHpO3E.gif",
+      "title": "Do que Mabel e Dipper são chamados?",
+      "description": "haha",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Gêmeos do misterio",
+         "Gêmeos misteriosos",
+         "Gêmeos vigilantes",
+         "Gêmeos loucos"
+      ]
+    },
+    {
+      "image": "https://i.imgur.com/QpHpO3E.gif",
+      "title": "Quem gosta da Mabel?",
+      "description": ":)",
+      "answer": 0,
+      "alternatives": [
+         "Soos ou Os",
+         "Tivô-Stan ou Stan",
+         "Gideon",
+         "Jack ou J."
       ]
     }
   ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://pato-quiz-nextjs.theedouglasam.vercel.app/",
+    "https://aluraquiz-coffee.leonardot07.vercel.app/"
+  ],
   "theme": {
     "colors": {
-      "primary": "#0D47A1",
-      "secondary": "#222222",
-      "mainBg": "#171B35",
+      "primary": "#9C8440",
+      "secondary": "#407BA5",
+      "mainBg": "#421A20",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"
